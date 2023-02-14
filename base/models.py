@@ -14,4 +14,4 @@ class Task(models.Model):
     
 
     class Meta:
-        ordering = ['complete']
+        order_with_respect_to = 'user'
