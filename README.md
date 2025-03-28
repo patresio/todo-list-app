@@ -1,4 +1,4 @@
-# 📝 To Do List
+# 📝 To Do List (Django)
 
 <div align="center">
 <img src="https://github.com/patresio/todo-list-app/raw/main/.gitassets/capa.png" width="350" />
