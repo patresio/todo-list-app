@@ -64,7 +64,7 @@ O objetivo principal do projeto é fornecer uma ferramenta simples e eficaz para
    python manage.py runserver
    ```
 
-6. Acesse o projeto no seu dispositivo.
+6. Acesse o projeto em [http://localhost:8000](http://localhost:8000).
 
 ## 🗒️ Features do projeto 🗒️
 
