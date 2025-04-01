@@ -39,7 +39,7 @@ O objetivo principal do projeto é fornecer uma ferramenta simples e eficaz para
 2. Acesse o diretório do projeto:
 
    ```sh
-   cd campo-minado
+   cd todo-list-app
    ```
 
 3. Instale uma Virtual Env do Python e ative:
